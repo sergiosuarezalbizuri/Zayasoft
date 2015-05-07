@@ -6,6 +6,7 @@ public class modulo2 {
 	int suma = a+b;
 	int resta = a-b;
 	int Multiplicacion = a*b;
+	int Division= a/b;
 	
 	
 	
