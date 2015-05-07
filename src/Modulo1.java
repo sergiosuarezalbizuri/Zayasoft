@@ -35,7 +35,7 @@ public class Modulo1 {
  
         for(I=1;I<=N;I++)
         {
-            System.out.println(I + " VECES : MODULO EJECUTANDOSssE");
+            System.out.println(I + " VECES : MODULO EJECUTANDOSssEn EJE3");
         }
     }
 
